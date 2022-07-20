@@ -73,7 +73,7 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 241,Guerrero Negro,MX,82.83,broken clouds,27.9769,-114.0611,"Casa Laguna, Bed & Breakfast"
 245,Tucurui,BR,82.8,broken clouds,-3.7661,-49.6725,BBB Rooms Centro Tucurui PA
 253,Dingle,PH,76.5,broken clouds,10.9995,122.6711,SEGAYA PROPERTY
-255,New Ulm,US,86.38,clear sky,44.3125,-94.4605,
+255,New Ulm,US,86.38,clear sky,44.3125,-94.4605,Best Western Plus New Ulm
 257,Shingu,JP,80.15,broken clouds,33.7333,135.9833,Shingu UI Hotel
 263,Wucheng,CN,77.4,overcast clouds,29.6008,118.175,Xiuwu Restaurant
 265,Eyl,SO,75.72,broken clouds,7.9803,49.8164,Amiin Hotel
@@ -162,7 +162,7 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 488,Igdir,TR,85.93,clear sky,39.9237,44.045,Igdir Central Hotel Emperor Hotel
 489,Cockburn Town,TC,82.22,clear sky,21.4612,-71.1419,Osprey Beach Hotel
 491,Ternate,ID,79.65,overcast clouds,0.8,127.4,Sahid Bela Ternate Hotel
-492,Anori,BR,80.71,light rain,-3.7728,-61.6442,
+492,Anori,BR,80.71,light rain,-3.7728,-61.6442,Novo Hotel 5 Irmãos
 493,Russell,US,88.02,clear sky,32.3502,-85.1999,Macs
 499,Qadirpur Ran,PK,89.49,clear sky,30.2924,71.6712,Govt Guest House
 502,Siwan,IN,89.4,moderate rain,26.2167,84.3667,Hotel Manish

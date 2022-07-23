@@ -1,9 +1,8 @@
 # **World_Weather_Analysis**
 ---
 ## **Overview of Project:**
-Add breif description here.
 
-Add links to files below.
+The project’s objective is to improve a travel app to give customers a way to decide their travel destination and ideal hotel based on weather preferences. The work is in three folders: Weather_Database, Vacation_Search, and Vacation_Itinerary.
 
 --- 
 ## **Resource:**
@@ -17,8 +16,13 @@ Add links to files below.
 
 **Software:** Anaconda 4.13.0, Jupyter Notebook 6.4.11, Python v3.8.9
 
-**Dependencies:** Pandas, Numpy,  Matplotlib, Matplotlib.pyplot, Citipy, Requests, Gmaps.
+**Dependencies:** Pandas, Numpy,  Matplotlib, Matplotlib.pyplot, CitiPy, Datetime, Requests, Gmaps, APIs, JSON Traversal, SciPy.
 
 --- 
 ## **Summary:**
-Add quick summary of project here.
+
+The Weather_Database folder contains the Weather_Database.ipynb and WeatherPy_database.csv, a set of 2,000 random latitudes and longitudes was generated, and an API’s call was made to OpenWeatherMap for current weather data for the nearest corresponding cities. Retrieving the latitudes, longitudes, maximum temperature, wind speed, current weather description, percent humidity and cloudiness. 
+
+The Vacation_Search folder contains the Vacation_Search.ipynb, WeatherPy_vacation.csv, and WeatherPy_vacation_map.png. The customers can identify potential destinations and nearby hotels based on weather preferences, using gmaps and adding pop-up markers on a marker layer map. 
+
+The Vacation_Itinerary folder contains the Vacation_Itinerary.ipynb, WeatherPy_travel_map.png, and WeatherPy_travel_map_markers.png. The following itinerary travel maps were created using Google Directions API showing  the route between four cities in Canada. The pop-up markers show the Hotel name, City, Country, and Current weather description with the maximum temperature in degrees Fahrenheit. 
